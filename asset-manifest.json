@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/countdown-app/static/css/main.dbcde092.css",
-    "main.js": "/countdown-app/static/js/main.8831971b.js",
-    "static/js/453.cc2b24f2.chunk.js": "/countdown-app/static/js/453.cc2b24f2.chunk.js",
-    "static/media/celebration.mp3": "/countdown-app/static/media/celebration.60572cccc881bad7e77a.mp3",
-    "static/media/happyNewYear.mp3": "/countdown-app/static/media/happyNewYear.e925ecb291a39e94ec49.mp3",
-    "index.html": "/countdown-app/index.html",
-    "main.dbcde092.css.map": "/countdown-app/static/css/main.dbcde092.css.map",
-    "main.8831971b.js.map": "/countdown-app/static/js/main.8831971b.js.map",
-    "453.cc2b24f2.chunk.js.map": "/countdown-app/static/js/453.cc2b24f2.chunk.js.map"
+    "main.css": "/static/css/main.dbcde092.css",
+    "main.js": "/static/js/main.cfd80266.js",
+    "static/js/453.cc2b24f2.chunk.js": "/static/js/453.cc2b24f2.chunk.js",
+    "static/media/celebration.mp3": "/static/media/celebration.60572cccc881bad7e77a.mp3",
+    "static/media/happyNewYear.mp3": "/static/media/happyNewYear.e925ecb291a39e94ec49.mp3",
+    "index.html": "/index.html",
+    "main.dbcde092.css.map": "/static/css/main.dbcde092.css.map",
+    "main.cfd80266.js.map": "/static/js/main.cfd80266.js.map",
+    "453.cc2b24f2.chunk.js.map": "/static/js/453.cc2b24f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcde092.css",
-    "static/js/main.8831971b.js"
+    "static/js/main.cfd80266.js"
   ]
 }
